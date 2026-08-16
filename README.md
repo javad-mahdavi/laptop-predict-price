@@ -657,7 +657,7 @@ final_model/final_model.pkl
 
 ```bash
 
-git clone https://github.com/mohammad-javad-0/laptop-predict-price.git
+git clone https://github.com/javad-mahdavi/laptop-predict-price.git
 
 
 
